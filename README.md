@@ -89,5 +89,3 @@ This project currently does not have a specific license. All rights are reserved
 ---
 
 Thank you for using our project! If you encounter any problems or have questions, please feel free to reach out to us or open an issue on GitHub. Happy coding!
-
-Replace the placeholders in square brackets (e.g., [briefly describe the purpose or goal of your project], [your-username], [your-project], [Specify the license you are using for the project], etc.) with your actual project details and information. Additionally, make sure to include the screenshot.png file in the same directory as the README.md file, or adjust the image URL accordingly if it's located in a different folder.
