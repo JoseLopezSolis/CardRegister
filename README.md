@@ -70,33 +70,13 @@ The purpose of this project is to provide a user-friendly form for filling out c
 
    - If there are any errors in the form submission (e.g., invalid card number, expired card, incomplete fields), the application will display appropriate error messages to guide the user.
 
-4. **Card Storage:**
-
-   - After successful validation, the card information is stored securely in the application's database.
-   - The stored cards can be retrieved and displayed for the user's reference.
-
-5. **Managing Cards:**
-
-   - The application may provide options to manage the registered cards, such as editing card details or deleting a card when it's no longer needed.
-
-6. **Security:**
-
-   - Emphasize the security measures taken by the application to protect the user's sensitive information, such as encryption and compliance with data protection standards.
-
-7. **UI/UX:**
+4. **UI/UX:**
 
    - Highlight any user interface features that enhance the user experience, such as input validation in real-time, clear instructions, and intuitive design.
 
-8. **Integration:**
+5. **Integration:**
 
    - If relevant, explain how this card form can be integrated into other parts of the application or used as a standalone component.
-
-9. **Deployment:**
-
-   - Provide any instructions on how to deploy the application to a live server or hosting platform.
-
-10. **Examples:**
-    - Include examples of how the card form can be implemented in code, along with explanations of any configuration or customization options.
 
 ## Contributing
 
