@@ -1,0 +1,11 @@
+.button{
+  text-align: center;
+  margin-top: 2rem;
+  width: 420px;
+  height: 70px;
+  color: var(--white);
+  border: none;
+  background-color: var(--very-dark-violet);
+  border-radius: var(--border-radius);
+  cursor: pointer;
+}

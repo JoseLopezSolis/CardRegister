@@ -1,0 +1,61 @@
+.card-container img{
+  position: absolute;
+  scale: 0.3;
+  z-index: 100;
+}
+
+.card-container span{
+  position: absolute;
+}
+
+.front-card img{
+  right: 30%;
+  bottom: 20%;
+}
+
+.card-logo {
+  scale: 0.05 !important;
+  right: 40% !important;
+  top: -30% !important;
+}
+
+.card-number{
+  position: relative;
+  left: 12%;
+  bottom: 63%;
+  z-index: 110;
+  color: var(--white);
+  font-size: 3.5vh;
+}
+
+.card-name{
+  position: relative;
+  left: 12%;
+  bottom: 58%;
+  z-index: 110;
+  color: var(--white);
+  font-size: 2vh;
+}
+
+.card-date{
+  position: relative;
+  left: 32%;
+  bottom: 58%;
+  z-index: 110;
+  color: var(--white);
+  font-size: 2vh;
+}
+
+.back-card img{
+  right: 25%;
+  top: 15%;
+}
+
+.card-cvv{
+  position: relative;
+  z-index: 110;
+  left: 37%;
+  bottom: 34%;
+  color: var(--white);
+  font-size: 2vh;
+}
